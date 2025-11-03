@@ -1,4 +1,4 @@
-# Chapter X — Getting the Data Right: Balance and Stratification for Analysis, ML, and Causal Inference
+# CGetting the Data Right: Balance and Stratification for Analysis, ML, and Causal Inference
 
 > **Thesis:** Most downstream failures in analytics and modeling trace back to upstream imbalance. Balance and stratification are the “design” layer of data science: the disciplined preparation that makes estimation, testing, prediction, and causal claims trustworthy.
 
